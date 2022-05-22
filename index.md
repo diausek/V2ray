@@ -6,6 +6,7 @@
 
 工作原理
 在配置V2ray之前，不妨先来看一下V2ray的工作原理，以下是单个V2ray进程的内部结构示意图。多个V2ray之间互相独立，互不影响。
+
 ![image](https://github.com/diausek/V2ray/blob/8a0673c8904090b76a801c4cec683cc7134f7efe/1-1.jpg)
 
 需要配置至少一个入站协议（Inbound）和一个出站协议（Outbound）才可以正常工作。
