@@ -2,7 +2,7 @@
 
 本文是搭建V2ray服务器（ws+tls+web）的完整教程。V2ray是 Project V 下的一个工具。Project V 是一个包含一系列构建特定网络环境工具的项目，而V2ray属于最核心的一个。致力于让大家更好更快的科学上网。
 
-**详细的机场\加密翻墙搭建教程请点击：[完整安装V2Ray服务器（V2Ray+ws+tls+web）零基础搭建VPN](https://www.xsdnmg.tk/2022/04/24/04/)**
+**详细的机场\加密翻墙搭建教程请点击：[完整安装V2Ray服务器（V2Ray+ws+tls+web）零基础搭建VPN](https://www.xsdnmg.tk/2022/05/26/04/)**
 
 工作原理
 在配置V2ray之前，不妨先来看一下V2ray的工作原理，以下是单个V2ray进程的内部结构示意图。多个V2ray之间互相独立，互不影响。
